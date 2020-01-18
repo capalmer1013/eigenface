@@ -1,0 +1,2 @@
+# eigenface
+Eigenface python library
